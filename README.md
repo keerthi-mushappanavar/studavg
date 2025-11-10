@@ -1,0 +1,2 @@
+# studavg
+average calculate
